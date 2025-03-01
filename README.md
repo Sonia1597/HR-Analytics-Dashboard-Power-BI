@@ -1,5 +1,28 @@
-# HR-Analytics-Dashboard
-This repository contains my Basic Power BI dashboard, built to analyze HR analytics data. It includes employee distribution, service years, promotions, and more. 
+# 📊 HR Analytics Dashboard - Power BI  
+
+🚀 **My First Power BI Dashboard!** 🚀  
+This is my first **basic HR dashboard** built using **Power BI**, where I visualized employee data including:  
+✅ Total Employees  
+✅ Gender Distribution  
+✅ Service Years Breakdown  
+✅ Promotions & Retrainments  
+✅ Job Levels & Distance from Office  
+
+## 📸 Dashboard Preview  
 ![image](https://github.com/user-attachments/assets/27e4a7e1-bb88-4450-990e-f3022a7380f8)
+
+## 🔗 View & Download  
+You can download the **Power BI (.pbix) file** and explore the dataset & visuals yourself!  
+
+👉 **[Download the Power BI File](GITHUB_LINK_HERE)**  
+
+## 💼 About This Project  
+This dashboard was created to analyze HR data and provide insights into workforce distribution, promotions, and attrition risks. It was designed as a **learning project** to practice Power BI skills!  
+
+---
+
+### ⭐ **If you found this useful, don't forget to star ⭐ this repo!**  
+
+
 
 
