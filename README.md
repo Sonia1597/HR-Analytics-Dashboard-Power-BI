@@ -14,7 +14,7 @@ This is my first **basic HR dashboard** built using **Power BI**, where I visual
 ## 🔗 View & Download  
 You can download the **Power BI (.pbix) file** and explore the dataset & visuals yourself!  
 
-👉 **[Download the Power BI File](GITHUB_LINK_HERE)**  
+👉 **[Download the Power BI File](https://github.com/Sonia1597/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.pbix)**  
 
 ## 💼 About This Project  
 This dashboard was created to analyze HR data and provide insights into workforce distribution, promotions, and attrition risks. It was designed as a **learning project** to practice Power BI skills!  
